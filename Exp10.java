@@ -79,7 +79,7 @@ class Consumer extends Thread {
     }
 }
 
-public class exp10 {
+public class Exp10 {
     public static void main(String[] args) {
         Buffer b = new Buffer();
 
